@@ -12,3 +12,11 @@ Domain: Data Science and Business Analytics Internship at The Sparks Foundation,
 
 ### Dataset: https://bit.ly/3i4rbWl
 
+
+## Task 2 : Prediction using Unsupervised Machine Learning
+
+### Problem Statments : <br>
+
+**● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually**
+
+### Dataset: https://bit.ly/3kXTdox
