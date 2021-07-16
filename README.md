@@ -10,6 +10,7 @@ Domain: Data Science and Business Analytics Internship at The Sparks Foundation,
 **● As a business manager, try to find out the weak areas where you can work to make more profit**<br>
 **● What all business problems you can derive by exploring the data?**
 
+#### LinkedIn : https://www.linkedin.com/posts/arshia-pelathur_thesparksfoundation-gripjuly2021-gripjuly21-activity-6818964319628349440-0QBC
 ### Dataset: https://bit.ly/3i4rbWl
 
 
